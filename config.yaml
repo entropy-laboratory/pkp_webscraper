@@ -1,0 +1,13 @@
+tryb_szukania: "weekend" # "weekend" lub "codziennie"
+
+przejazd_do: "gdansk-glowny"
+data_wyjazdu: "03-07-2025"
+# przejazd_z: "warszawa-centralna"
+przejazd_z: "krakow-glowny"
+godzina_wyjazdu: "06:00"
+max_czas_przejazdu: 10
+liczba_weekendów_wyszukiwania: 4
+dni_szukania: 5
+
+cena_maksymalna: 250
+nocy_na_miejscu: 1
